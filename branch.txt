@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 bhjbmbj
 
 
@@ -6,3 +7,6 @@ bhjbmbj
 
 
 jhmihhhhhhhhhhhhhm                                                                      this is origin 1 of braNCH MASTERfvkjnjknknknvk,m             vjnkdbnk
+=======
+this is origin 1 of braNCH MASTERfvkjnjknknknvk,m             vjnkdbnknugyhyumhhmhim
+>>>>>>> 2eceb1b65102e4205e7d793ae03f9e3abc6bbf3b
